@@ -8,5 +8,5 @@ function Search() {
     </View>
   );
 }
-
+//teste
 export default Search;
